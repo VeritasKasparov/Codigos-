@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "serve": "^13.0.2"
+  },
+  "name": "raycaster",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
